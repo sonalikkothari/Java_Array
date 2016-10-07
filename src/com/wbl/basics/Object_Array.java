@@ -1,5 +1,6 @@
 package com.wbl.basics;
 
+//this is an object array
  public class Object_Array {
 
 	public static void main(String[] args) {

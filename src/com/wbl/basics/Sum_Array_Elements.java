@@ -1,5 +1,6 @@
 package com.wbl.basics;
 
+//Sum of array elements
 public class Sum_Array_Elements {
 
 	public static void main(String[] args) {

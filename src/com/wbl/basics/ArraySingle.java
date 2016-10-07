@@ -1,5 +1,6 @@
 package com.wbl.basics;
 
+//This is a Single Dimensional array program
 public class ArraySingle {
 
 	

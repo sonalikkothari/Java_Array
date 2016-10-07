@@ -1,5 +1,6 @@
 package com.wbl.basics;
 
+//Array of  primitive data types
 public class Primitive_Array {
 
 	public static void main(String[] args) {

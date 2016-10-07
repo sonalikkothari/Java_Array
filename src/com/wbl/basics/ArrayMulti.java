@@ -1,7 +1,7 @@
 package com.wbl.basics;
 
 
-
+//This is a Multidimensional array program
 public class ArrayMulti {
 
 	public static void main(String[] args) {
